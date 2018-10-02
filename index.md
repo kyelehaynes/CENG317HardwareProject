@@ -1,15 +1,21 @@
-# CENG 317 Hardware Project
 ## Kyele Haynes
 
 ### Week 1
 
 ### Week 2
 
+Submitted Project Proposal
+[Project Proposal](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/ProposalContentStudentNameRev02.xlsx)
+
 ### Week 3
+
+Submitted Project Plan (Gannt Chart)
+[Project Plan](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/CENG317ProjectSchedule.mpp)
 
 ### Week 4
 
 Submitted project budget spreadsheet
+[Project Budget](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/Project%20Budget.xlsx)
 
 ### Week 5
 
