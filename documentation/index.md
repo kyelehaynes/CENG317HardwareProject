@@ -1,3 +1,4 @@
-###CENG317 Hardware Project
+# CENG 317 Hardware Project
+## Kyele Haynes
 
-![alt text] (https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/Order%20Receipt.png?raw=true "Parts Receipt")
+![My image](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/Order%20Receipt.png)
