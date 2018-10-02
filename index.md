@@ -2,19 +2,22 @@
 
 ### Week 1
 
+Started the project__
+Created the repository
+
 ### Week 2
 
-Submitted Project Proposal
+Submitted Project Proposal__
 [Project Proposal](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/ProposalContentStudentNameRev02.xlsx)
 
 ### Week 3
 
-Submitted Project Plan (Gannt Chart)
+Submitted Project Plan (Gantt Chart)__
 [Project Plan](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/CENG317ProjectSchedule.mpp)
 
 ### Week 4
 
-Submitted project budget spreadsheet
+Submitted project budget spreadsheet__
 [Project Budget](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/Project%20Budget.xlsx)
 
 ### Week 5
