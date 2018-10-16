@@ -47,3 +47,6 @@ During this week my parts that were ordered last week had been delivered
 
 ##### Parts Ready in Lab
 ![Ordered Parts](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/Ordered%20Parts.jpg)
+
+##### Me Soldering the Header Pins on the Sensor
+![Soldering the Sensor](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/soldering.jpg)
