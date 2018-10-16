@@ -43,3 +43,7 @@ No class due to Thanksgiving + Study days
 During this week my parts that were ordered last week had been delivered
 
 ### Week 7
+###### October 16th, 2018
+
+##### Parts Ready in Lab
+![Ordered Parts](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/Ordered%20Parts.jpg)
