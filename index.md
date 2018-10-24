@@ -8,6 +8,12 @@ I Repurchased my parts kit this week as I had misplaced my previous one, I also 
 ##### Pi to Sensor Wiring
 ![Pi to Sensor Test Wiring](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/Pi%20to%20Sensor%20Wiring.jpg)
 
+##### At Home
+Had no issues setting up RDP connection to the pi (using xrdp) and ssh connection. Also enabled the I2C and VNC services. I ran sudo i2cdetect -y 1 to check if my Pi is detecting my sensor (0x69) and it did. (screenshot shown below)
+
+##### I2C Detect Command Shown Running on my Pi
+![I2C Detect](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/I2CDetect.PNG)
+
 ### Week 7
 ###### October 16th, 2018
 
