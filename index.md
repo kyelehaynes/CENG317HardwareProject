@@ -1,5 +1,26 @@
 ## Kyele Haynes
 
+
+### Week 9
+###### October 30th, 2018
+##### Fritzing + PCB 
+Today in class I designed my PCB using Fritzing. I did not have many issues with this as I only require 4 connections on my PCB. I have used Fritzing in the past for a project in highschool, thus I was already familiar with the software but needed a refresher as in the past I have only manually etched single sided PCB's. Here are the exported PNG's of the Fritzing diagrams:
+
+##### Fritzing Breadboard
+![Fritzing Breadboard](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/Fritzing%20Files/BreadBoard.png)
+
+##### Fritzing PCB
+![Fritzing PCB](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/Fritzing%20Files/PCB.png)
+
+Once I finished the design of my PCB and made small modifications to fit my needs I sent an email to the Prototype lab and attached the Extended Gerber files in a zip format exported from Fritzing. Below is a screenshot of my sent email:
+
+##### Email to Prototype lab
+![Email to Prototype Lab](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/Email%20to%20Prototype%20Lab.PNG)
+
+##### Progress/Status Update
+According to my schedule I am on track so far, Next I need to begin interacting with and recieving data from my sensor with the Raspbian OS on the Raspberry Pi to remain on schedule. As per the budget I had to purchase an SD card last week for the Raspbian OS which I had overlooked originally. This adds ~$12 to the total amount spent on the project which is not an issue. Other than that I have not had any other issues.
+
+
 ### Week 8
 ###### October 23rd, 2018
 ##### During Class
