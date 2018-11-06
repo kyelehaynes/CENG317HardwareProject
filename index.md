@@ -1,5 +1,12 @@
 ## Kyele Haynes
 
+### Week 10
+###### November 6th, 2018
+##### PCB Soldering 
+Yesterday, November 5th, I went to the prototype lab to pick up my PCB and verify that it will work. Today I soldered the stackable header pins for the sensor and Pi. I also soldered the via holes.
+
+
+
 
 ### Week 9
 ###### October 30th, 2018
