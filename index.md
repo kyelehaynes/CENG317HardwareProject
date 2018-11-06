@@ -5,7 +5,13 @@
 ##### PCB Soldering 
 Yesterday, November 5th, I went to the prototype lab to pick up my PCB and verify that it will work. Today I soldered the stackable header pins for the sensor and Pi. I also soldered the via holes.
 
+##### Soldered PCB Top
+![Soldered PCB Top](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/PCB%20Soldered%20Top.jpg)
 
+##### Soldered PCB Bottom
+![Soldered PCB Bottom](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/PCB%20Soldered%20Bottom.jpg)
+
+The first issue I ran into today was that I did not have any [stackable header pins](https://www.google.ca/search?q=stackable+header+pins&safe=strict&rlz=1C1GGRV_enCA751CA751&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj88_K178DeAhVtUd8KHaGZCJcQ_AUIDigB&biw=1920&bih=930). Luckily there were available ones in the prototype lab for the Pi and there was one I was able to modify for my AMG8833 sensor. As per soldering it went pretty well as I have had experienece in the past. I did have some trouble with the solder balling up a lot at the beginning and was not sticking. After playing with the heat settings on the soldering iron and adjusting my technique slightly I was able to get it to stick fairly well. I checked my solders under the microscope and all seemed well. Once I finished soldering the Pi header onto the board I plugged it all toether and connected to my Pi through RDP and ran sudo i2cdetect -y 1 again to verify that the Pi was detecting the AMG8833 on the PCB and it was. Since I fully completed the soldering today I am still on track as per my [project schedule](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/CENG317ProjectSchedule.mpp). Due to getting my stackable header pins from the prototype lab today I am still on track as ber my [project budget](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/Project%20Budget.xlsx)
 
 
 ### Week 9
@@ -25,7 +31,7 @@ Once I finished the design of my PCB and made small modifications to fit my need
 ![Email to Prototype Lab](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/Email%20to%20Prototype%20Lab.PNG)
 
 ##### Progress/Status Update
-According to my schedule I am on track so far, Next I need to begin interacting with and recieving data from my sensor with the Raspbian OS on the Raspberry Pi to remain on schedule. As per the budget I had to purchase an SD card last week for the Raspbian OS which I had overlooked originally. This adds ~$12 to the total amount spent on the project which is not an issue. Other than that I have not had any other issues.
+According to my (schedule)(https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/CENG317ProjectSchedule.mpp) I am on track so far, Next I need to begin interacting with and recieving data from my sensor with the Raspbian OS on the Raspberry Pi to remain on schedule. As per the [project budget](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/Project%20Budget.xlsx) I had to purchase an SD card last week for the Raspbian OS which I had overlooked originally. This adds ~$12 to the total amount spent on the project which is not an issue. Other than that I have not had any other issues.
 
 
 ### Week 8
