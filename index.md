@@ -31,7 +31,7 @@ Once I finished the design of my PCB and made small modifications to fit my need
 ![Email to Prototype Lab](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/Email%20to%20Prototype%20Lab.PNG)
 
 ##### Progress/Status Update
-According to my (schedule)(https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/CENG317ProjectSchedule.mpp) I am on track so far, Next I need to begin interacting with and recieving data from my sensor with the Raspbian OS on the Raspberry Pi to remain on schedule. As per the [project budget](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/Project%20Budget.xlsx) I had to purchase an SD card last week for the Raspbian OS which I had overlooked originally. This adds ~$12 to the total amount spent on the project which is not an issue. Other than that I have not had any other issues.
+According to my [schedule](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/CENG317ProjectSchedule.mpp) I am on track so far, Next I need to begin interacting with and recieving data from my sensor with the Raspbian OS on the Raspberry Pi to remain on schedule. As per the [project budget](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/Project%20Budget.xlsx) I had to purchase an SD card last week for the Raspbian OS which I had overlooked originally. This adds ~$12 to the total amount spent on the project which is not an issue. Other than that I have not had any other issues.
 
 
 ### Week 8
