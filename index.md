@@ -1,5 +1,15 @@
 ## Kyele Haynes
 
+### Week 12
+###### November 20th, 2018
+##### Pi Case Due
+Today I completed my case drawing in Corel Draw and submitted it to the prototype lab. I used the Pi2CaseX6.cdr from dropoffs as a starting point for my custom case. File: [PiCase_AMG8833_Drawing.cdr](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/PiCase_AMG8833_Drawing.cdr). I got help from Kelly in the prototype lab on how to use the Corel Draw software and modify the file to my needs. I had to raise the height of the whole case by 0.5" and add a cutout at the top for my sensor. 
+
+##### Screenshot of Corel Draw Drawing
+![Screenshot of Corel Draw Drawing](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/Case%20Drawing.PNG)
+
+This week the case was supposed to be cut and assembled around my pi. Unfortunately I did not get to that point as I started on my Corel Draw file late due to a lack of knowledge of the program. I missed the deadline of having the case cut today by an hour or 2 so I will have to pick it up later this week and make another blog entry when I have my Pi enclosed in it. Thus, I am currently a little bit behind in regards to my [project schedule](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/CENG317ProjectSchedule.mpp). As per my [project budget](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/Project%20Budget.xlsx) this week had no effect because the machine and acrylic used to create the case are provided to me by the college and the Corel Draw software is available on the lab computers.
+
 ### Week 11
 ###### November 13th, 2018
 ##### PCB Power Up and Test Code
