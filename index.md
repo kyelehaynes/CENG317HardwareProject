@@ -3,7 +3,7 @@
 ### Week 12
 ###### November 20th, 2018
 ##### Pi Case Due
-Today I completed my case drawing in Corel Draw and submitted it to the prototype lab. I used the Pi2CaseX6.cdr from dropoffs as a starting point for my custom case. File: [PiCase_AMG8833_Drawing.cdr](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/PiCase_AMG8833_Drawing.cdr). I got help from Kelly in the prototype lab on how to use the Corel Draw software and modify the file to my needs. I had to raise the height of the whole case by 0.5" and add a cutout at the top for my sensor. 
+Today I completed my case drawing in Corel Draw and submitted it to the prototype lab. I used the [Pi2CaseX6.cdr](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/Pi2CaseX6.cdr) from dropoffs as a starting point for my custom case. File: [PiCase_AMG8833_Drawing.cdr](https://github.com/kyelehaynes/CENG317HardwareProject/blob/master/documentation/PiCase_AMG8833_Drawing.cdr). I got help from Kelly in the prototype lab on how to use the Corel Draw software and modify the file to my needs. I had to raise the height of the whole case by 0.5" and add a cutout at the top for my sensor. 
 
 ##### Screenshot of Corel Draw Drawing
 ![Screenshot of Corel Draw Drawing](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/Case%20Drawing.PNG)
