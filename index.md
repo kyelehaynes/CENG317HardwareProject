@@ -3,15 +3,13 @@
 ### Week 13
 ###### November 26th, 2018
 ##### Pi Case Picked up and put together
-Today I was able to pi up my pi case from the prototype lab. I had to submit my corel drawing file a second time last week as I had a design flaw in my first submission and most of the cutouts were not fully cut through thus I could not pop them out easily. Once I enclosed my Pi in the case I realized that my sensor and PCB was tilting to the side as it was only supported by the header pin meaning there was a possibility it could move out of sight of the small cutout. To fix this issue I used a piece of foam on the other side of my PCB to prop it up and allow it to stay that way.
+Today I was able to pi up my pi case from the prototype lab. I had to submit my corel drawing file a second time last week as I had a design flaw in my first submission and most of the cutouts were not fully cut through, thus I could not pop them out easily. Once I enclosed my Pi in the case, I realized that my sensor and PCB was tilting to the side as it was only supported by the header pin meaning there was a possibility it could move out of sight of the small cutout on top of the case. To fix this issue I used a piece of foam on the other side of my PCB to prop it up.
 
 ##### Raspberry Pi Fully Enclosed in Case
-![Fully Enclosed]
-(https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/Case%20Enclosed.jpg)
+![Fully Enclosed](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/Case%20Enclosed.jpg)
 
 ##### Top Off of The Case
-![Top Off]
-(https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/Case%20Open.jpg)
+![Top Off](https://raw.githubusercontent.com/kyelehaynes/CENG317HardwareProject/master/documentation/Case%20Open.jpg)
 
 ### Week 12
 ###### November 20th, 2018
