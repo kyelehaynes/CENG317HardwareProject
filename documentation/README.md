@@ -17,7 +17,7 @@ In total this project would cost $290.49. For anyone else wanting to reproduce t
 
 ### Time Commitment
 
-
+The time commitment for this project, excluding shipping, can vary alot depending on if you use the files provided or create your own. I would set aside 2 hours for each section following this one, equaling to ~8 hours. I did the whole project over the course of several weeks as I only worked on it for 2 hours each week and had to create all the provided files, some from scratch and some by referencing others that were provided to me.
 
 ### Mechanical Assembly
 
